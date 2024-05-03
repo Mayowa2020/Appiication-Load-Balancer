@@ -1,3 +1,7 @@
+# Deploying ALB with Two EC2 Instances in AWS
+
+**In this mini project, you will learn how to set up an Application Load Balancer (ALB) in AWS and deploy two EC2 instances behind it. This project will help you understand the basics of load balancing and distributing traffic across multiple instances.**
+
 ## Objectives
 
     1. Create Two EC2 Instances:
